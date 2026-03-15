@@ -1,19 +1,13 @@
-# java-quizapplication
-JAVA QUIZ 
 # Java Quiz Application
 
-This is my first Java project.
+This is a simple console-based quiz program written in Java.
 
-## Features
+Features:
 - Multiple choice questions
+- User input using Scanner
 - Score calculation
-- Simple console interface
 
-## Technologies Used
-- Java
-- OOP Concepts
+How to run:
 
-## How to Run
-1. Clone the repository
-2. Compile the Java file
-3. Run the program
+javac QuizApp.java
+java QuizApp
